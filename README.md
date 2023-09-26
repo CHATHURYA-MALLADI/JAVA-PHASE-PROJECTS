@@ -1,7 +1,11 @@
 #BUDGET TRACKER
-Description
+
+Description :
+
 Project objective:
+
 To build a budget tracker application for an organization
+
 Background of the problem statement:
                   ComplexLearn Pvt. Ltd. has hired you as a full-stack developer to create a budget-tracking application.
 
